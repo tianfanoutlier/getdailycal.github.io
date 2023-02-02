@@ -1,0 +1,43 @@
+    <div class="grid-item" style="background-color:#696969">20 (8pm)
+       <style type="text/css">
+    option.red {background-color: #cc0000; font-weight: bold; font-size: 12px;}
+    option.yellow {background-color: #B0BF1A;}
+     option.blue {background-color: #89CFF0;}
+      option.purple {background-color: #B284BE;}
+    </style>
+
+    <select name=colors>
+    <option class="red" value= "../morning/">urgent </option>
+    <option class="yellow" value= "../noon">thinking </option>
+    <option class="#89CFF0" value= "../noon">doing </option>
+    <option class="purple" value= "../night">relaxing </option>
+    </select>
+  <form action="//www.html.am/html-codes/textboxes/submitted.cfm">
+<textarea name="myTextBox" cols="23" rows="6">
+</textarea>
+<br />
+  </div>
+  
+  <div class="grid-item" style="background-color:#2F4F4F" >21 (9pm)
+     <style type="text/css">
+    option.red {background-color: #cc0000; font-weight: bold; font-size: 12px;}
+    option.yellow {background-color: #B0BF1A;}
+     option.blue {background-color: #89CFF0;}
+      option.purple {background-color: #B284BE;}
+    </style>
+
+    <select name=colors>
+    <option class="red" value= "../morning/">urgent </option>
+    <option class="yellow" value= "../noon">thinking </option>
+    <option class="#89CFF0" value= "../noon">doing </option>
+    <option class="purple" value= "../night">relaxing </option>
+    </select>
+  <form action="//www.html.am/html-codes/textboxes/submitted.cfm">
+<textarea name="myTextBox" cols="23" rows="6">
+</textarea>
+<br />
+  </div>
+     
+     
+</body>
+</html>
